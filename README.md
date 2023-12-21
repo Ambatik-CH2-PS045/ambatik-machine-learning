@@ -41,8 +41,8 @@ Embark on a journey of discovery: Study this documentation to uncover how to run
 5. You can use the `/uploader` endpoint to directly access the flask for prediction
 
    **Request Form Data:**
-  | Key | Type | Value |
-  |---|---|---|
-  | `file` | `file` | `file-name-example.jpg` |
+ | Key | Value |
+|---|---|
+| `file` | `your-image.jpg` |
 
 6. Then you can run both of Node JS and Flask, if it success then when you use `/batik/predict` endpoint it will communicate to the flask and return the results of batik name and accuracy
