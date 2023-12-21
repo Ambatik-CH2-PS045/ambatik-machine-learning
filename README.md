@@ -1,4 +1,4 @@
-# Ambatik Cloud Computing Documentation
+# Ambatik Model Deployment Documentation
 Embark on a journey of discovery: Study this documentation to uncover how to running Flask applications and uncover the machine learning models.
 
 ## Prerequisite
