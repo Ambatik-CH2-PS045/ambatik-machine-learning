@@ -15,21 +15,21 @@ Welcome to the comprehensive documentation for our machine learning models!
 
 The dataset used in this project comprises a collection of **1,130 images** distributed across 15 distinct classes representing various traditional Indonesian batik:
 
-**Cendrawasih**
-**Geblek Renteng**
-**Insang**
-**Kawung**
-**Lasem**
-**Mega Mendung**
-**Nitik**
-**Parang**
-**Poleng**
-**Pring Sedapur**
-**Sekar Jagad**
-**Simbut**
-**Sogan**
-**Tambal**
-**Truntum**
+1. **Cendrawasih**
+2. **Geblek Renteng**
+3. **Insang**
+4. **Kawung**
+5. **Lasem**
+6. **Mega Mendung**
+7. **Nitik**
+8. **Parang**
+9. **Poleng**
+10. **Pring Sedapur**
+11. **Sekar Jagad**
+12. **Simbut**
+13. **Sogan**
+14. **Tambal**
+15. **Truntum**
 
 ## Model Architecture
 
